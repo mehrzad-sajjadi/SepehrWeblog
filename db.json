@@ -1,0 +1,344 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "image_url": "https://dl.codeyad.com/assets/images/Courses/108d65c7-bf08-4b30-98a4-2c598e27d88c.jpg",
+      "title": "معرفی فریمورک Vue.js",
+      "author": "علی محمدی",
+      "text": "Vue.js یک فریمورک پیشرفته جاوااسکریپت برای ساخت رابط کاربری است. این فریمورک به دلیل سادگی و انعطاف پذیری بالا بسیار محبوب شده است.",
+      "date": "1402/05/15"
+    },
+    {
+      "id": "2",
+      "image_url": "https://faradars.org/_next/image?url=https%3A%2F%2Ffaradars.org%2Fwp-content%2Fuploads%2F2019%2F09%2Ffvdl9806-svg.svg&w=1920&q=75",
+      "title": "آموزش کامپوننت ها در Vue",
+      "author": "نازنین رضایی",
+      "text": "کامپوننت ها بلوک های سازنده اپلیکیشن های Vue هستند. در این مقاله یاد میگیرید چگونه کامپوننت های قابل استفاده مجدد ایجاد کنید.",
+      "date": "1402/06/02"
+    },
+    {
+      "id": "3",
+      "image_url": "https://sabzlearn.ir/wp-content/uploads/2025/06/claude-1-768x403.webp",
+      "title": "مدیریت حالت در Vuex",
+      "author": "رضا کریمی",
+      "text": "Vuex کتابخانه مدیریت حالت برای برنامه های Vue است. این مقاله به شما نشان می دهد چگونه داده های برنامه خود را به صورت متمرکز مدیریت کنید.",
+      "date": "1402/06/20"
+    },
+    {
+      "id": "4",
+      "image_url": "https://sabzlearn.ir/wp-content/uploads/2025/05/hoosh-768x403.webp",
+      "title": "راهنمای روتینگ با Vue Router",
+      "author": "سارا احمدی",
+      "text": "Vue Router به شما امکان می دهد برنامه های تک صفحه ای (SPA) با قابلیت ناوبری بین صفحات مختلف ایجاد کنید.",
+      "date": "1402/07/05"
+    },
+    {
+      "id": "5",
+      "image_url": "https://sabzlearn.ir/wp-content/uploads/2025/05/enhanced_SCRIPT-768x402.png",
+      "title": "آموزش دایرکتیوهای سفارشی Vue",
+      "author": "محمد حسینی",
+      "text": "دایرکتیوهای سفارشی به شما امکان می دهند رفتارهای خاصی به عناصر DOM اضافه کنید. در این مقاله نحوه ایجاد آنها را یاد میگیرید.",
+      "date": "1402/07/18"
+    },
+    {
+      "id": "6",
+      "image_url": "https://sabzlearn.ir/wp-content/uploads/2025/05/lang0-768x403.jpg",
+      "title": "بهینه سازی عملکرد در Vue",
+      "author": "فاطمه زاهدی",
+      "text": "در این مقاله تکنیک های مختلف برای بهبود عملکرد برنامه های Vue را بررسی می کنیم، از lazy loading تا استفاده بهینه از computed properties.",
+      "date": "1402/08/03"
+    },
+    {
+      "id": "7",
+      "image_url": "https://sabzlearn.ir/wp-content/uploads/2025/05/tiob1-768x403.webp",
+      "title": "ادغام Vue با بک اند Laravel",
+      "author": "امیر رضوانی",
+      "text": "یاد بگیرید چگونه یک برنامه Vue را با بک اند Laravel ادغام کنید و از مزایای هر دو فریمورک بهره ببرید.",
+      "date": "1402/08/22"
+    },
+    {
+      "id": "8",
+      "image_url": "https://dl.codeyad.com/assets/images/Courses/b0d76f91-20dd-4414-baa1-6d893d388f68.jpg",
+      "title": "آموزش تست واحد در Vue",
+      "author": "لیلا موسوی",
+      "text": "تست واحد بخش مهمی از توسعه نرم افزار است. در این مقاله نحوه نوشتن تست برای کامپوننت های Vue را یاد میگیرید.",
+      "date": "1402/09/10"
+    },
+    {
+      "id": "9",
+      "image_url": "https://sabzlearn.ir/wp-content/uploads/2025/04/1tose-1-768x403.webp",
+      "title": "استفاده از SVG در کامپوننت های Vue",
+      "author": "حسین نجفی",
+      "text": "SVG ها برای آیکون ها و گرافیک های مقیاس پذیر عالی هستند. این مقاله نشان می دهد چگونه می توان آنها را در Vue استفاده کرد.",
+      "date": "1402/09/28"
+    },
+    {
+      "id": "10",
+      "image_url": "https://dl.codeyad.com/assets/images/Courses/ce69fe1f-bd03-481d-867e-2d0796b9690d.jpg",
+      "title": "آموزش انیمیشن در Vue",
+      "author": "مریم قربانی",
+      "text": "Vue ابزارهای قدرتمندی برای ایجاد انیمیشن و انتقال بین حالت های مختلف ارائه می دهد. این مقاله این قابلیت ها را بررسی می کند.",
+      "date": "1402/10/15"
+    },
+    {
+      "id": "11",
+      "image_url": "https://dl.codeyad.com/assets/images/Courses/b0d76f91-20dd-4414-baa1-6d893d388f68.jpg",
+      "title": "معرفی Composition API",
+      "author": "پویا احمدی",
+      "text": "Composition API رویکرد جدیدی در Vue 3 برای سازماندهی کد ارائه می دهد که انعطاف پذیری و قابلیت استفاده مجدد را افزایش می دهد.",
+      "date": "1402/11/02"
+    },
+    {
+      "id": "12",
+      "image_url": "https://faradars.org/_next/image?url=https%3A%2F%2Ffaradars.org%2Fwp-content%2Fuploads%2F2024%2F04%2F17%2Ffvlng9601.svg&w=1920&q=75",
+      "title": "ایجاد پلاگین های سفارشی Vue",
+      "author": "زهرا محمدی",
+      "text": "پلاگین ها به شما امکان می دهند قابلیت های全局 به Vue اضافه کنید. این مقاله مراحل ایجاد یک پلاگین سفارشی را نشان می دهد.",
+      "date": "1402/11/20"
+    },
+    {
+      "id": "13",
+      "image_url": "https://faradars.org/_next/image?url=https%3A%2F%2Ffaradars.org%2Fwp-content%2Fuploads%2F2024%2F07%2F13%2Ffvprg332.svg&w=1920&q=75",
+      "title": "آموزش Nuxt.js برای مبتدیان",
+      "author": "عرفان علیزاده",
+      "text": "Nuxt.js فریمورکی بر پایه Vue برای ساخت برنامه های سرور ساید رندر شده است. این مقاله اصول اولیه آن را پوشش می دهد.",
+      "date": "1402/12/08"
+    },
+    {
+      "id": "14",
+      "image_url": "https://faradars.org/_next/image?url=https%3A%2F%2Ffaradars.org%2Fwp-content%2Fuploads%2F2018%2F05%2Ffvsql9702-svg.svg&w=1920&q=75",
+      "title": "استراتژی های کش در Vue",
+      "author": "نرگس صادقی",
+      "text": "کش کردن می تواند عملکرد برنامه های Vue را به طور چشمگیری بهبود بخشد. این مقاله روش های مختلف پیاده سازی کش را بررسی می کند.",
+      "date": "1402/12/25"
+    },
+    {
+      "id": "15",
+      "image_url": "https://faradars.org/_next/image?url=https%3A%2F%2Ffaradars.org%2Fwp-content%2Fuploads%2F2024%2F04%2F17%2Ffvrphp101.svg&w=1920&q=75",
+      "title": "ایجاد PWA با Vue",
+      "author": "مهدی رحیمی",
+      "text": "برنامه های پیش رونده وب (PWA) تجربه ای شبیه به اپلیکیشن های موبایل ارائه می دهند. این مقاله نشان می دهد چگونه با Vue یک PWA بسازید.",
+      "date": "1403/01/12"
+    },
+    {
+      "id": "16",
+      "image_url": "https://sabzlearn.ir/wp-content/uploads/2025/04/1tose-1-768x403.webp",
+      "title": "آموزش استفاده از WebSocket در Vue",
+      "author": "سمیرا کرمانی",
+      "text": "WebSocket امکان ارتباط دوطرفه بلادرنگ بین کلاینت و سرور را فراهم می کند. این مقاله نحوه ادغام آن با Vue را نشان می دهد.",
+      "date": "1403/01/30"
+    },
+    {
+      "id": "17",
+      "image_url": "https://sabzlearn.ir/wp-content/uploads/2025/05/tiob1-768x403.webp",
+      "title": "بهترین روش های امنیتی در Vue",
+      "author": "کامران نجاری",
+      "text": "امنیت در برنامه های وب حیاتی است. این مقاله بهترین روش ها برای ایمن نگه داشتن برنامه های Vue را پوشش می دهد.",
+      "date": "1403/02/17"
+    },
+    {
+      "id": "18",
+      "image_url": "https://dl.codeyad.com/assets/images/Courses/c3cae568-72d7-4fd8-8e0c-4aa01eebb34c.JPG",
+      "title": "دیپلوی برنامه Vue روی Netlify",
+      "author": "شیما غلامی",
+      "text": "Netlify یک پلتفرم عالی برای میزبانی برنامه های Vue است. این مقاله مراحل دیپلوی را به صورت قدم به قدم توضیح می دهد.",
+      "date": "1403/03/05"
+    },
+    {
+      "id": "1543",
+      "image_url": "https://dl.codeyad.com/assets/images/Courses/108d65c7-bf08-4b30-98a4-2c598e27d88c.jpg",
+      "title": "آموزش لاراول",
+      "author": "مهرزاد سجادی",
+      "text": "لاراول پیشرفته ترین فریمورک php برای برنامه نویسی بک اند میباشد",
+      "date": "1404/04/15"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "postId": 1,
+      "parentId": null,
+      "author": "محمد رضایی",
+      "text": "مقاله بسیار مفیدی بود، ممنون!",
+      "date": "1402/05/16",
+      "replies": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": "2",
+      "postId": 1,
+      "parentId": 1,
+      "author": "علی محمدی (نویسنده)",
+      "text": "خوشحالم که براتون مفید بود!",
+      "date": "1402/05/16",
+      "replies": [
+        4
+      ]
+    },
+    {
+      "id": "3",
+      "postId": 1,
+      "parentId": 1,
+      "author": "فاطمه کریمی",
+      "text": "آیا منابع بیشتری برای یادگیری Vue پیشنهاد می‌کنید؟",
+      "date": "1402/05/17",
+      "replies": [
+        5
+      ]
+    },
+    {
+      "id": "4",
+      "postId": 1,
+      "parentId": 2,
+      "author": "سارا احمدی",
+      "text": "مقاله‌های بعدی شما رو هم دنبال می‌کنم!",
+      "date": "1402/05/18",
+      "replies": []
+    },
+    {
+      "id": "5",
+      "postId": 1,
+      "parentId": 3,
+      "author": "علی محمدی (نویسنده)",
+      "text": "بله، مستندات رسمی Vue و دوره‌های رایگان Vue Mastery پیشنهاد می‌شود.",
+      "date": "1402/05/18",
+      "replies": []
+    },
+    {
+      "id": "6",
+      "postId": 2,
+      "parentId": null,
+      "author": "رضا نوروزی",
+      "text": "کامپوننت‌ها واقعا قدرت Vue رو نشون می‌دن!",
+      "date": "1402/06/03",
+      "replies": [
+        7
+      ]
+    },
+    {
+      "id": "7",
+      "postId": 2,
+      "parentId": 6,
+      "author": "نازنین رضایی (نویسنده)",
+      "text": "دقیقا! قابلیت استفاده مجدد عالی دارن.",
+      "date": "1402/06/04",
+      "replies": []
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "رضا محمدی",
+      "age": 28,
+      "country": "ایران",
+      "job": "برنامه‌نویس"
+    },
+    {
+      "id": "2",
+      "name": "فاطمه حسینی",
+      "age": 32,
+      "country": "ایران",
+      "job": "تحلیلگر داده"
+    },
+    {
+      "id": "3",
+      "name": "علی اکبری",
+      "age": 25,
+      "country": "ترکیه",
+      "job": "توسعه‌دهنده وب"
+    },
+    {
+      "id": "4",
+      "name": "نازنین صفری",
+      "age": 29,
+      "country": "آلمان",
+      "job": "طراح گرافیک"
+    },
+    {
+      "id": "5",
+      "name": "پویا امینی",
+      "age": 35,
+      "country": "کانادا",
+      "job": "معلم"
+    },
+    {
+      "id": "6",
+      "name": "سارا موسوی",
+      "age": 27,
+      "country": "فرانسه",
+      "job": "مدیر بازاریابی"
+    },
+    {
+      "id": "7",
+      "name": "امیررضا کریمی",
+      "age": 31,
+      "country": "ژاپن",
+      "job": "مهندس"
+    },
+    {
+      "id": "8",
+      "name": "مینا احمدی",
+      "age": 40,
+      "country": "ایتالیا",
+      "job": "آشپز"
+    },
+    {
+      "id": "9",
+      "name": "حسین رضوی",
+      "age": 26,
+      "country": "روسیه",
+      "job": "پزشک"
+    },
+    {
+      "id": "10",
+      "name": "لیلا جعفری",
+      "age": 45,
+      "country": "آمریکا",
+      "job": "معمار"
+    },
+    {
+      "id": "11",
+      "name": "محمدجواد قاسمی",
+      "age": 33,
+      "country": "امارات",
+      "job": "روزنامه‌نگار"
+    },
+    {
+      "id": "12",
+      "name": "زهرا نعمتی",
+      "age": 38,
+      "country": "قطر",
+      "job": "حسابدار"
+    },
+    {
+      "id": "13",
+      "name": "کیانوش مرادی",
+      "age": 29,
+      "country": "چین",
+      "job": "توسعه‌دهنده نرم‌افزار"
+    },
+    {
+      "id": "14",
+      "name": "نرگس فلاحی",
+      "age": 30,
+      "country": "مالزی",
+      "job": "مدیر منابع انسانی"
+    },
+    {
+      "id": "15",
+      "name": "مهدی یزدانی",
+      "age": 36,
+      "country": "کره جنوبی",
+      "job": "مدیر محصول"
+    },
+    {
+      "id": "228b",
+      "name": "استیون هاوکینگ",
+      "age": "56",
+      "country": "انگلستان",
+      "job": "فیزیک دان ، منجم"
+    }
+  ]
+}
