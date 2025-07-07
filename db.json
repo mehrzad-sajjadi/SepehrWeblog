@@ -151,6 +151,14 @@
       "author": "مهرزاد سجادی",
       "text": "لاراول پیشرفته ترین فریمورک php برای برنامه نویسی بک اند میباشد",
       "date": "1404/04/15"
+    },
+    {
+      "id": "1543",
+      "image_url": "https://www.google.com/imgres?q=%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86&imgurl=https%3A%2F%2Fwww.doris.host%2Fwp-content%2Fuploads%2F2023%2F04%2F1.jpg&imgrefurl=https%3A%2F%2Fwww.doris.host%2Fwhat-is-python%2F&docid=OV9vYG-OOS8BnM&tbnid=RJH8tTCw4wxqmM&vet=12ahUKEwiggPz9jquOAxWChf0HHfs-IlkQM3oECGcQAA..i&w=1024&h=600&hcb=2&ved=2ahUKEwiggPz9jquOAxWChf0HHfs-IlkQM3oECGcQAA",
+      "title": "برنامه نویسی پایتون",
+      "author": "کیان اشتیانی",
+      "text": "پایتون یک زبان برنامه نویسی قدرتمند برای کارهای زیاد مانند هوش مصوعی است",
+      "date": "۱۴۰۴/۰۴/۱۶"
     }
   ],
   "comments": [
@@ -225,6 +233,41 @@
       "text": "دقیقا! قابلیت استفاده مجدد عالی دارن.",
       "date": "1402/06/04",
       "replies": []
+    },
+    {
+      "id": "0242",
+      "postId": "1543",
+      "text": "لاراول عالی است",
+      "author": "اتلاتل",
+      "date": "۱۴۰۴/۰۴/۱۵"
+    },
+    {
+      "id": "400b",
+      "postId": "3",
+      "text": "Vuex خیلی خوب است و توابع کاربردی زیادی داره",
+      "author": "اتلاتل",
+      "date": "۱۴۰۴/۰۴/۱۵"
+    },
+    {
+      "id": "3591",
+      "postId": "10",
+      "text": "من عاشق vue , react هستم  از مطالبی که درمورد این فریمورکها میگذارید واقعا ممنونم",
+      "author": "امین اعظم نور",
+      "date": "۱۴۰۴/۰۴/۱۵"
+    },
+    {
+      "id": "193b",
+      "postId": "7",
+      "text": "این مقاله خوب بود",
+      "author": "امین اعظم نور",
+      "date": "۱۴۰۴/۰۴/۱۶"
+    },
+    {
+      "id": "2da3",
+      "postId": "7",
+      "text": "نظر بعدی",
+      "author": "mahdi",
+      "date": "۱۴۰۴/۰۴/۱۶"
     }
   ],
   "users": [

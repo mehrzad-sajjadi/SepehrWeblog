@@ -37,6 +37,7 @@
                                     <label>نام کاربر</label>
                                     <input 
                                         v-model="newUser.name"
+                                        required
                                         placeholder="نام کاربری را وارد کنید"
                                         type="text" 
                                         class="rounded-md py-2 px-1 border border-[#7E848E] mt-2 w-full"
@@ -46,6 +47,7 @@
                                     <label>سن</label>
                                     <input 
                                         v-model="newUser.age"
+                                        required
                                         placeholder="سن کاربر جدید را وارد کنید"
                                         type="text" 
                                         class="rounded-md py-2 px-1 border border-[#7E848E] mt-2 w-full"
@@ -57,6 +59,7 @@
                                     <label>کشور</label>
                                     <input 
                                         v-model="newUser.country"
+                                        required
                                         placeholder="نام کشور را وارد کنید"
                                         type="text" 
                                         class="rounded-md py-2 px-1 border border-[#7E848E] mt-2 w-full"
@@ -66,6 +69,7 @@
                                     <label>شغل</label>
                                     <input 
                                         v-model="newUser.job"
+                                        required
                                         placeholder="شغل کاربر جدید را وارد کنید"
                                         type="text" 
                                         class="rounded-md py-2 px-1 border border-[#7E848E] mt-2 w-full"

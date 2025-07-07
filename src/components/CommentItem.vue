@@ -3,8 +3,8 @@
       <div class="bg-white p-4 rounded-lg shadow-sm">
         <div class="flex justify-between items-start">
           <div>
-            <span class="font-medium text-gray-800">{{ comment.author }}</span>
-            <span class="text-sm text-gray-500 mr-2">{{ comment.date }}</span>
+              <span class="font-medium text-gray-800">{{ comment.author }}</span>
+              <span class="text-sm text-gray-500 mr-2">{{ comment.date }}</span>
           </div>
           <button 
             @click="$emit('reply', comment)"
